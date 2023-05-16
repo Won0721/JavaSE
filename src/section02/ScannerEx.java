@@ -16,10 +16,13 @@ public class ScannerEx {
 		int age;
 		double weight;
 		
-		System.out.println("이름, 주소, 나이, 체중을 빈칸으로 구분하여 순서대로 입력하세요.");
+		System.out.print("이름 :");
 		name = sc.next();
+		System.out.print("주소 :");
 		address = sc.next();
+		System.out.print("나이 :");
 		age = sc.nextInt();
+		System.out.print("체중 :");
 		weight = sc.nextDouble();
 		
 		System.out.printf("당신의 이름은 %s입니다.\n", name);
