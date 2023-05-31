@@ -1,4 +1,4 @@
-package day11;
+package day11.formatting;
 
 import java.io.FileInputStream;
 import java.util.Scanner;

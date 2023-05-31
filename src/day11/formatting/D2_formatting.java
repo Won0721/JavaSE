@@ -1,4 +1,4 @@
-package day11;
+package day11.formatting;
 // formatting : 데이터의 형식을 지정하는 것을 의미
 
 import java.text.DecimalFormat;
