@@ -33,7 +33,7 @@ public class Var {
 		int areaNum2;
 		
 		System.out.println("globalNum2: "+globalNum2);
-		System.out.println("areaNum2: "+areaNum2);
+		//System.out.println("areaNum2: "+ areaNum2);
 		
 	
 	}
