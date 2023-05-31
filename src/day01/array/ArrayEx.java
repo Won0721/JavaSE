@@ -1,6 +1,6 @@
-package var;
+package day01.array;
 
-public class Day4 {
+public class ArrayEx {
 
 	public static void main(String[] args) {
 //	배열의 선언

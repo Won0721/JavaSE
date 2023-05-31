@@ -1,9 +1,9 @@
-package var;
+package day02.constructor;
 
 public class DayB_CarPractice {
 	public static void main(String[] args) {
-			Car mycar1= new Car();
-			Car mycar2 = new Car();
+			CarA mycar1= new CarA();
+			CarA mycar2 = new CarA();
 			mycar1.color = "red";
 			mycar2.color = "black";
 			mycar1.speedUp();

@@ -1,6 +1,6 @@
-package var;
+package day01.sample;
 
-public class Day3 {
+public class Sample {
 	public static void main(String[] args) {
 		
 	

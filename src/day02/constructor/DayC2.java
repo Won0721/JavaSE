@@ -1,4 +1,4 @@
-package var;
+package day02.constructor;
 
 public class DayC2 {
 	public static void main(String[] args) {

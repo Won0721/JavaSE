@@ -1,4 +1,4 @@
-package var;
+package day02.Class;
 
 public class DayB_Class {
 // 인스턴스 : 클래스를 통해 만들어진 형태	

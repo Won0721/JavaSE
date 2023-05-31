@@ -1,6 +1,6 @@
-package day01.var;
+package day01.sample;
 
-public class Day1 {
+public class Sample2 {
 	
 	public static void main(String[] args) {
 	// 서식없는 출력(print() : 출력 후 줄을 바꾸지 않는다, println() : 출력후 줄바꾼다

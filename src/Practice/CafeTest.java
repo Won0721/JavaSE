@@ -1,8 +1,8 @@
-package var;
+package Practice;
 
 import java.util.Scanner;
 
-public class Day7_CafeTest {
+public class CafeTest {
 // 1. 카페프로그램 (무한반복, 문자열배열)
 //	 1) 알고리즘 작성하기
 //	 2) 알고리즘 토대로 코드 구현하기

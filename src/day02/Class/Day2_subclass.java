@@ -1,4 +1,4 @@
-package day02.constructor;
+package day02.Class;
 // 클래스 상속 부모클래스(슈퍼클래스) - > 자식클래스(서브클래스)
 // class 클래스명 extends 부모클래스명{ }  
 // 다중상속을 지원하지 않음.

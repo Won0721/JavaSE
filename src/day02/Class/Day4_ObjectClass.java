@@ -1,4 +1,4 @@
-package day02.constructor;
+package day02.Class;
 // 오브젝트클래스
 // 모든 클래스의 조상 클래스
 // toString()

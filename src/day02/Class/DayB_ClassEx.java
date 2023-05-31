@@ -1,4 +1,4 @@
-package var;
+package day02.Class;
 //클래스로 객체 만드는법
 // 클래스명 자료형 참조변수 = new 클래스명();
 

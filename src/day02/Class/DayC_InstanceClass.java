@@ -1,4 +1,4 @@
-package var;
+package day02.Class;
 //인스턴스 : 클래스로 실제 메모리에 생성된 객체\
 
 //클래스 변수 생성방법

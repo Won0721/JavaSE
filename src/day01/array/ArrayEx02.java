@@ -1,8 +1,8 @@
-package var;
+package day01.array;
 
 import java.util.Scanner;
 
-public class Day4_Array {
+public class ArrayEx02 {
 	
 	public static void main(String[] args) {
 		// 2차원 배열의 선언	  자료형[][] 배열명;

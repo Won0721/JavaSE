@@ -1,8 +1,8 @@
-package var;
+package day01.array;
 
 import java.util.Arrays;
 
-public class Day7_Array_For_Each {
+public class ArrayEx03 {
 	//System.array(src, srcPos, dest, destPos, length);
 	//src : 복사할 배열
 	//srcPos : 복사를 하기 시작할 인덱스(위치)

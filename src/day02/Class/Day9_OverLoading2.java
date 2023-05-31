@@ -1,4 +1,4 @@
-package var;
+package day02.Class;
 
 public class Day9_OverLoading2 {
 	public static void main(String[] args) {

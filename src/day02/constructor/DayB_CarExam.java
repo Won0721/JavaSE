@@ -1,9 +1,9 @@
-package var;
+package day02.constructor;
 
 public class DayB_CarExam {
 	public static void main(String[] args) {
 //		 클래스명 참조변수 = new 클래스명();
-		 Car myCar =new Car();
+		 CarA myCar =new CarA();
 		 System.out.println("시동 처음 초기화:"+ myCar.powerOn);		// 처음엔 false
 		 System.out.println("차의 색상 초기화:"+ myCar.color);		// 처음엔 null
 		 System.out.println("바퀴의 수 초기화:"+ myCar.wheel);		// 첨엔 0
@@ -26,7 +26,7 @@ public class DayB_CarExam {
 	}
 }
 
-class Car{
+class CarA{
 	boolean powerOn; // 시동
 	String color; // 색
 	int wheel;	// 바퀴수

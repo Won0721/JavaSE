@@ -1,4 +1,4 @@
-package var;
+package day03.Method;
 
 public class Day8_Method2 {
 	public static void main(String[] args) {

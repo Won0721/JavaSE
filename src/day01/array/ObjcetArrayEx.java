@@ -1,9 +1,9 @@
-package var;
+package day01.array;
 
 //클래스 객체배열 생성방법
 //클래스명 객체배열명[] = new 클래스명[크기];
 //ex)  Aclass ar[] = new Aclass[3];
-public class DayD_ObjcetArray_Animal {
+public class ObjcetArrayEx {
 
 	public static void main(String[] args) {
 		Animal animals[] = new Animal[3];

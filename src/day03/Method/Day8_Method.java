@@ -1,4 +1,4 @@
-package var;
+package day03.Method;
 
 public class Day8_Method {
 // 구현부 : 메서드가 어떤 명령들로 구성이 되어있는지 구현하는 부분 : 리턴타입 메서드명(매개변수1,매개변수2){명령1; 명령2;  명령3;  return리턴값;   }

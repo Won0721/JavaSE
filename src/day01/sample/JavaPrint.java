@@ -1,4 +1,4 @@
-package var;
+package day01.sample;
 
 import java.util.Scanner;
 
