@@ -94,15 +94,15 @@ public class CafeTest {
 					
 			}
 			else if (num ==3) {	// 결제하기
-				System.out.println("결제할 금액"+total+"원");
-				System.out.println("지불할 금액:");
+				System.out.println("결제할 금액:"+total+"원");
+				System.out.print("지불할 금액:");
 				int money=sc.nextInt();
 				if(money<total) {
 					System.out.println("잔액이 부족합니다.");
 					continue;
 				}
 				else {
-					System.out.println("잔돈은 "+(money-total)+"입니다.");
+					System.out.println("잔돈은 "+(money-total)+"원 입니다.");
 					total =0;
 					for(int i=0; i<5; i++) {
 						orderList[i] = "";
@@ -111,7 +111,7 @@ public class CafeTest {
 					
 				}
 			}
-			else if (num ==4) {
+			else if (num ==4) { // 끝내기 
 				System.out.println("반복종료!");
 				break;
 			}
