@@ -20,7 +20,7 @@ public class Day1_StringEx {
 			System.out.println(str.indexOf("o"));
 			System.out.println("hello world".indexOf("world")); // -1 값 리턴 시 찾지못했다는 의미
 			System.out.println(str.equals("hello"));
-			// trim(), replace , replaceAll
+			// trim() : 공백 제거, replace , replaceAll
 			System.out.println(" test ".trim());
 			System.out.println("hello world".replace('l','L'));
 			System.out.println("hello world".replaceAll("hello","bye"));
