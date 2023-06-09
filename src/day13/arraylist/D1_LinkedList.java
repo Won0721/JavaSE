@@ -1,5 +1,6 @@
-package day13.arraylist;
 
+package day13.arraylist;
+s
 import java.util.*;
 
 public class D1_LinkedList {

@@ -3,6 +3,7 @@ package day13.arraylist;
 import java.util.LinkedList;
 import java.util.Queue;
 
+
 // Queue(큐) : 한쪽 끝에서는 삽입이 다른쪽 끝에서는 삭제가 일어나는 구조 ex) 줄서기
 // 선입선출(FIFO) first in first out의 구조
 // 앞부분(front:삭제) 뒷부분(rear:삽입)

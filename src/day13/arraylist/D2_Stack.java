@@ -4,6 +4,7 @@ package day13.arraylist;
 // top: 삽입,삭제
 // Vector의 자식클래스
 
+
 import java.util.Stack;
 
 public class D2_Stack {
@@ -26,7 +27,7 @@ public class D2_Stack {
 		System.out.println("banana 위치:"+s.search("banana"));
 		
 	}
-	
+	Stack
 	
 
 
