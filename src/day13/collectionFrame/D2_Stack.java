@@ -1,4 +1,4 @@
-package day13.arraylist;
+package day13.collectionFrame;
 // Stack(스택) : 한 쪽 끝에서 삽입과 삭제가 모두 일어나는 구조
 // 후입선출(LIFO)의 구조 Last in First Out
 // top: 삽입,삭제
@@ -27,8 +27,5 @@ public class D2_Stack {
 		System.out.println("banana 위치:"+s.search("banana"));
 		
 	}
-	Stack
-	
-
 
 }

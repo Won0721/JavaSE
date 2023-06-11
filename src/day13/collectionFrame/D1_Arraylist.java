@@ -1,4 +1,4 @@
-package day13.arraylist;
+package day13.collectionFrame;
 
 import java.util.ArrayList;
 // 컬렉션 프레임워크 : 자바에서 제공하는 자료구조

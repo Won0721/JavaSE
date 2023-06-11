@@ -1,6 +1,7 @@
 
-package day13.arraylist;
-s
+package day13.collectionFrame;
+
+
 import java.util.*;
 
 public class D1_LinkedList {
