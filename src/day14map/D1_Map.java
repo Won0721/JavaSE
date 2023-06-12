@@ -3,7 +3,7 @@ package day14map;
 import java.util.HashMap;
 import java.util.Scanner;
 
-// Map : 키를 통해서 값을 참조할 수 있는 구조
+// Map : 키를 통해서 값을 참조할 수 있는 구조 ( 클래스)
 // 인터페이스이기 때문에 사용하려면 업 캐스팅이 필요
 
 // HashMap : key와 Value 값으로 데이터를 저장하는 형태
