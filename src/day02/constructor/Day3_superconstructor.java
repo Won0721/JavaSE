@@ -13,7 +13,7 @@ class Car{
 	int wheel;
 	int speed;
 	String color;
-//	Car(){}		//오류해결 첫번째 방법 디폴트생성자를 만들어줌
+//	Car(){}		//오류해결 첫번째 방법 부모클래스에 디폴트생성자를 만들어줌
 	Car(String color){
 		this.color = color;
 	}
