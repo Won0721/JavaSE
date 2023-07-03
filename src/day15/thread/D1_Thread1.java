@@ -16,7 +16,7 @@ public class D1_Thread1 {
 		for(int i=0;i<10;i++) {
 			System.out.println("메인 함수 진행중"+i);
 		}
-		
+		Thread
 	}
 }
 
