@@ -9,6 +9,7 @@ public class Day1_Exception2 {
 			System.out.println("메인에서 처리");
 		}
 	}
+	
 	public static void methodA() throws Exception{
 		methodB();
 		

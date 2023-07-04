@@ -12,6 +12,16 @@ public class Day3_Interface {
 		D d = new D();
 		d.methodA();
 		d.methodB();
+		System.out.println(d.x);
+		System.out.println(d.y);
+		System.out.println(d.z);
+		System.out.println("============ 업캐스팅");
+		Ainter f = new D();
+		f.methodA();
+		f.methodB();
+		System.out.println(f.x);
+		System.out.println(f.y);
+		//System.out.println(f.z); 업캐스팅해서 불가
 		
 		
 		
@@ -25,7 +35,7 @@ interface Ainter{
 	void methodB();		// abstract 생략 가능
 }
 class D implements Ainter{
-
+	int z=30;
 	
 	public void methodA() {
 		System.out.println("methodA");
